@@ -1,0 +1,14 @@
+﻿<Solution>
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="AbstractOcclusion.WebGpuWater.Editor.csproj" />
+  <Project Path="AbstractOcclusion.WebGpuWater.csproj" />
+  <Project Path="ALP8310_ControllerGlobal.Editor.csproj" />
+  <Project Path="AbstractOcclusion.WebGpuWater.Tests.csproj" />
+  <Project Path="Assembly-CSharp-Editor.csproj" />
+  <Project Path="Unity.StarterAssets.csproj" />
+  <Project Path="Unity.StarterAssets.Editor.csproj" />
+  <Project Path="WaterSystem.csproj" />
+  <Project Path="WaterSystem.Editor.csproj" />
+  <Project Path="ALP8310_ControllerGlobal.csproj" />
+  <Project Path="URPWizard.csproj" />
+</Solution>
